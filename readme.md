@@ -16,3 +16,5 @@ type_from_file "/home/user/blastar/blastar.txt"
 
 Then it will be typed into the emulator and it's possible to run it. Make sure to enable fast forward with F9 to speed up the process.
 Also don't forget to enable the joystick in OpenMSX-menu (press Windows Option-button ) > Hardware > Connectors > MSX joystick port A > keyjoystick1. You can stop the BASIC-program running by using CTRL-F8.
+
+![Blastar](https://github.com/TechhDan/Blastar/blob/master/Blastar.png)
