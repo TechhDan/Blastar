@@ -4,7 +4,7 @@ Blastar was a game written by Elon Musk in 1984 (at the age of 12). The source c
 Elon has since moved beyond 8-bit spaceships.
 
 "[It was] a trivial game... but better than Flappy Bird."
---Elon Musk (via WaitButWhy
+--Elon Musk (via WaitButWhy)
 
 ## Install
 
